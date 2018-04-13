@@ -1,1 +1,3 @@
- 
+Para executar os EXE precisa ter o .net framework 3.5 ou superior.
+
+O Servidor são os esqueletos de tela, onde é esperado ter uma interface de administração pós comunicação dos CLientes com a base de dados
