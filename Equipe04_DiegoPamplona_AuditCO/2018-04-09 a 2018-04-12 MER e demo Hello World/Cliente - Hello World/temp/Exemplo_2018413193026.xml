@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Declaracao do Node Pai-->
+<AuditCo_Cliente>
+  <!--Declaracao do Node Filho Computador-->
+  <Computador>
+    <Nome>NBBNU006731</Nome>
+    <Usuario>SENIOR\Diego.Pamplona</Usuario>
+    <ControladorDominio>\\HONDA</ControladorDominio>
+    <Uptime>0 days, 1 hours, 37 minutes, 48 seconds.</Uptime>
+    <TimeZone>TimeZone: Hora oficial do Brasil</TimeZone>
+  </Computador>
+  <!--Declaracao do Node Filho Processador-->
+  <Processador>
+    <Nome>4 x Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz</Nome>
+  </Processador>
+  <!--Declaracao do Node Filho Informações do Sistema Operacional-->
+  <Informacoes_SO>
+    <NomeCompleto>Microsoft Windows 10 Pro</NomeCompleto>
+    <Versao />
+    <Plataforma>64 Bits</Plataforma>
+    <Linguagem>pt-BR</Linguagem>
+  </Informacoes_SO>
+  <!--Declaracao do Node Filho Memoria-->
+  <Memoria>
+    <MemoriaTotal>8GB</MemoriaTotal>
+    <MemoriaDisponivel>4GB</MemoriaDisponivel>
+  </Memoria>
+  <!--Declaracao do Node Filho DiscosLocais-->
+  <DiscosLocais>
+    <Nome>C:\</Nome>
+    <Tipo>Fixed</Tipo>
+    <Formato>NTFS</Formato>
+    <TamanhoTotal>298GB</TamanhoTotal>
+    <TamanhoLivre>195GB</TamanhoLivre>
+  </DiscosLocais>
+  <!--Declaracao do Node Filho Rede-->
+  <Rede>
+    <MacAddress>02155D21E0B3</MacAddress>
+    <Nome>vEthernet (Opção Padrão)</Nome>
+    <Descricao>Hyper-V Virtual Ethernet Adapter</Descricao>
+    <EnderecoIP>fe80::8830:2af7:52d1:dfea%12</EnderecoIP>
+    <EnderecoIP>172.17.102.145</EnderecoIP>
+    <MacAddress>A41F72F7ECC6</MacAddress>
+    <Nome>Conexão local</Nome>
+    <Descricao>Broadcom NetXtreme 57xx Gigabit Controller</Descricao>
+    <EnderecoIP>fe80::d8d0:5820:4891:9454%13</EnderecoIP>
+    <EnderecoIP>201.54.201.56</EnderecoIP>
+    <MacAddress>342387088762</MacAddress>
+    <Nome>Conexão de Rede sem Fio</Nome>
+    <Descricao>Dell Wireless 1504 802.11b/g/n (2.4GHz)</Descricao>
+    <EnderecoIP>fe80::80ee:d01e:10ef:4be0%10</EnderecoIP>
+    <EnderecoIP>10.13.9.96</EnderecoIP>
+    <MacAddress />
+    <Nome>Loopback Pseudo-Interface 1</Nome>
+    <Descricao>Software Loopback Interface 1</Descricao>
+    <EnderecoIP>::1</EnderecoIP>
+    <EnderecoIP>127.0.0.1</EnderecoIP>
+    <MacAddress>00000000000000E0</MacAddress>
+    <Nome>Teredo Tunneling Pseudo-Interface</Nome>
+    <Descricao>Teredo Tunneling Pseudo-Interface</Descricao>
+    <EnderecoIP>fe80::ffff:ffff:fffe%15</EnderecoIP>
+  </Rede>
+  <!--Declaracao do Node Filho Monitor-->
+  <Monitor>
+    <PlacaVideo />
+    <ResolucaoAtual>1366 X 768</ResolucaoAtual>
+  </Monitor>
+  <!--Declaracao do Node Filho Impressoras-->
+  <Impressoras>
+    <Impressora>Send To OneNote 2016</Impressora>
+    <Impressora>PDFCreator</Impressora>
+    <Impressora>PDF Architect 4</Impressora>
+    <Impressora>Microsoft XPS Document Writer</Impressora>
+    <Impressora>Microsoft Print to PDF</Impressora>
+    <Impressora>Fax</Impressora>
+    <Impressora>EPSON XP-211 214 216 Series</Impressora>
+  </Impressoras>
+  <!--Declaracao do Node Filho Produtos Microsoft-->
+  <ProdutosMicrosoft>
+    <Windows>TY4CG-JDJH7-VJ2WF-DY4X9-HCFC6</Windows>
+    <Office>N/A</Office>
+  </ProdutosMicrosoft>
+  <!--Declaracao do Node Filho Programas Instalados-->
+  <ProgramasInstalados>
+    <ProgramaInstalado>EPSON XP-211 214 216 Series Printer Uninstall</ProgramaInstalado>
+    <ProgramaInstalado>Git version 2.16.1.4</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1 Language Pack - PTB</ProgramaInstalado>
+    <ProgramaInstalado>System Center Endpoint Protection</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Office 365 ProPlus - pt-br</ProgramaInstalado>
+    <ProgramaInstalado>PDFCreator</ProgramaInstalado>
+    <ProgramaInstalado>PDF Architect 4 View Module</ProgramaInstalado>
+    <ProgramaInstalado>IIS Express Application Compatibility Database for x64</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft ASP.NET Core 2.0.5 Runtime Package Store (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Windows Firewall Configuration Provider</ProgramaInstalado>
+    <ProgramaInstalado>IIS 10.0 Express</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Management Objects  (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft ODBC Driver 11 for SQL Server</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2016 Management Objects  (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2017 x64 Minimum Runtime - 14.13.26020</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Framework 4.5.2</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64</ProgramaInstalado>
+    <ProgramaInstalado>Active Directory Authentication Library for SQL Server</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Core Host - 2.0.5 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Build Tools Language Resources 14.0 (amd64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Performance Collection Tools - ENU</ProgramaInstalado>
+    <ProgramaInstalado>Serv. de Compilador Transact-SQL do Microsoft SQL Server 2014 </ProgramaInstalado>
+    <ProgramaInstalado>Visual Studio 2010 Prerequisites - English</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Core SDK - 2.1.100 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.4148</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Windows Software Development Kit DirectX x64 Remote</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Sync Framework Runtime v1.0 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>UpdateAssistant</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 VsGraphics Helper Dependencies</ProgramaInstalado>
+    <ProgramaInstalado>PeaZip 5.1.1 (WIN64)</ProgramaInstalado>
+    <ProgramaInstalado>Gravador VSS da Microsoft para SQL Server 2014</ProgramaInstalado>
+    <ProgramaInstalado>Visual C++ IDE x64 Package</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Diagnostic Tools - amd64</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Policy Platform</ProgramaInstalado>
+    <ProgramaInstalado>Configuration Manager Client</ProgramaInstalado>
+    <ProgramaInstalado>PDF Architect 4 Create Module</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Core Runtime - 2.0.5 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server Compact 4.0 SP1 x64 ENU</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Build Tools 14.0 (amd64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Sync Services for ADO.NET v2.0 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Visual Studio 2015 Prerequisites - ENU Language Pack</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Update 3 IntelliTrace (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Silverlight</ProgramaInstalado>
+    <ProgramaInstalado>Office 16 Click-to-Run Licensing Component</ProgramaInstalado>
+    <ProgramaInstalado>Office 16 Click-to-Run Extensibility Component</ProgramaInstalado>
+    <ProgramaInstalado>Office 16 Click-to-Run Localization Component</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Web Deploy 3.6</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Application Error Reporting</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft System CLR Types for SQL Server 2016</ProgramaInstalado>
+    <ProgramaInstalado>Windows Software Development Kit for Windows Store Apps DirectX x64 Remote</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Transact-SQL ScriptDom </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2012 Command Line Utilities </ProgramaInstalado>
+    <ProgramaInstalado>Dell Touchpad</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Forefront Endpoint Protection 2010 Server Management</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Express LocalDB </ProgramaInstalado>
+    <ProgramaInstalado>Update for Windows 10 for x64-based Systems (KB4023057)</ProgramaInstalado>
+    <ProgramaInstalado>IIS Express Application Compatibility Database for x86</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2005 Redistributable (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Storyboarding Language Pack (x64) - ENU</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Framework 4.5.1 (PTB)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Update 3 Diagnostic Tools - amd64</ProgramaInstalado>
+    <ProgramaInstalado>PDF Architect 4 Edit Module</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Version Manager (x64) 1.0.0-beta5</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2017 x64 Additional Runtime - 14.13.26020</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1 Language Pack - PTB</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2016 T-SQL ScriptDom </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Security Client</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2012 Native Client </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Core Host FX Resolver - 2.0.5 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Visual Studio 2015 Prerequisites</ProgramaInstalado>
+    <ProgramaInstalado>Managed Windows Defender</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2016 LocalDB </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 3 CTP1 Office Integration Language Pack (x64) - ENU</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft System CLR Types for SQL Server 2014</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Performance Collection Tools</ProgramaInstalado>
+  </ProgramasInstalados>
+</AuditCo_Cliente>
