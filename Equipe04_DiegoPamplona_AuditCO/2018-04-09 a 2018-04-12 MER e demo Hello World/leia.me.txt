@@ -1,3 +1,6 @@
 Para executar os EXE precisa ter o .net framework 3.5 ou superior.
 
-O Servidor são os esqueletos de tela, onde é esperado ter uma interface de administração pós comunicação dos CLientes com a base de dados
+O Servidor são os esqueletos de tela, onde é esperado ter uma interface de administração pós comunicação dos CLientes com a base de dados.
+
+O Cliente é um frame de teste, onde cada vez que se clica em coleta ele grava um XML dentro da pasta temp do diretorio que se está executando. Deve-se criar uma pasta temp no mesmo diretorio de execução do cliente pois dará erro de localização de diretorio.
+
