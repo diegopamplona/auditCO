@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Declaracao do Node Pai-->
+<AuditCo_Cliente>
+  <!--Declaracao do Node Filho Computador-->
+  <Computador>
+    <Nome>MC-5171</Nome>
+    <Usuario>FURB\dpamplona</Usuario>
+    <ControladorDominio>\\COALA</ControladorDominio>
+    <Uptime>0 days, 0 hours, 5 minutes, 21 seconds.</Uptime>
+    <TimeZone>TimeZone: Hora oficial do Brasil</TimeZone>
+  </Computador>
+  <!--Declaracao do Node Filho Processador-->
+  <Processador>
+    <Nome>8 x Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz</Nome>
+  </Processador>
+  <!--Declaracao do Node Filho Informações do Sistema Operacional-->
+  <Informacoes_SO>
+    <NomeCompleto>Microsoft Windows 7 Enterprise </NomeCompleto>
+    <Versao>Service Pack 1</Versao>
+    <Plataforma>64 Bits</Plataforma>
+    <Linguagem>pt-BR</Linguagem>
+  </Informacoes_SO>
+  <!--Declaracao do Node Filho Memoria-->
+  <Memoria>
+    <MemoriaTotal>8GB</MemoriaTotal>
+    <MemoriaDisponivel>5GB</MemoriaDisponivel>
+  </Memoria>
+  <!--Declaracao do Node Filho DiscosLocais-->
+  <DiscosLocais>
+    <Nome>C:\</Nome>
+    <Tipo>Fixed</Tipo>
+    <Formato>NTFS</Formato>
+    <TamanhoTotal>200GB</TamanhoTotal>
+    <TamanhoLivre>128GB</TamanhoLivre>
+  </DiscosLocais>
+  <!--Declaracao do Node Filho Rede-->
+  <Rede>
+    <MacAddress>D8CB8ABDD84A</MacAddress>
+    <Nome>Conexão local</Nome>
+    <Descricao>Realtek PCIe GBE Family Controller</Descricao>
+    <EnderecoIP>fe80::490d:d541:d8e2:4d1e%11</EnderecoIP>
+    <EnderecoIP>201.54.201.56</EnderecoIP>
+    <MacAddress />
+    <Nome>Loopback Pseudo-Interface 1</Nome>
+    <Descricao>Software Loopback Interface 1</Descricao>
+    <EnderecoIP>::1</EnderecoIP>
+    <EnderecoIP>127.0.0.1</EnderecoIP>
+    <MacAddress>00000000000000E0</MacAddress>
+    <Nome>isatap.{AC92DC0A-E695-4514-8839-52C17C9A9D7D}</Nome>
+    <Descricao>Adaptador do Microsoft ISATAP</Descricao>
+    <EnderecoIP>fe80::200:5efe:201.54.201.56%13</EnderecoIP>
+    <MacAddress>00000000000000E0</MacAddress>
+    <Nome>6TO4 Adapter</Nome>
+    <Descricao>Adaptador do Microsoft 6to4</Descricao>
+    <EnderecoIP>2002:c936:c938::c936:c938</EnderecoIP>
+    <MacAddress>00000000000000E0</MacAddress>
+    <Nome>Teredo Tunneling Pseudo-Interface</Nome>
+    <Descricao>Teredo Tunneling Pseudo-Interface</Descricao>
+    <EnderecoIP>fe80::100:7f:fffe%14</EnderecoIP>
+  </Rede>
+  <!--Declaracao do Node Filho Monitor-->
+  <Monitor>
+    <PlacaVideo />
+    <ResolucaoAtual>1920 X 1080</ResolucaoAtual>
+  </Monitor>
+  <!--Declaracao do Node Filho Impressoras-->
+  <Impressoras>
+    <Impressora>Microsoft XPS Document Writer</Impressora>
+    <Impressora>Foxit Reader PDF Printer</Impressora>
+    <Impressora>Fax</Impressora>
+  </Impressoras>
+  <!--Declaracao do Node Filho Produtos Microsoft-->
+  <ProdutosMicrosoft>
+    <Windows>BBBBB-BBBBB-BBBBB-BBBBB-BBBBB</Windows>
+    <Office>N/A</Office>
+  </ProdutosMicrosoft>
+  <!--Declaracao do Node Filho Programas Instalados-->
+  <ProgramasInstalados>
+    <ProgramaInstalado>Service Pack 1 para o SQL Server 2014 (KB3058865) (64-bit)</ProgramaInstalado>
+    <ProgramaInstalado>GDR 4213 para o SQL Server 2014 (KB3070446) (64-bit)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1 Language Pack - PTB</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 (64-bit)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 (64-bit)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Pacote de Idiomas do Microsoft Visual Studio 2010 Tools for Office Runtime (x64) - Português (Brasil)</ProgramaInstalado>
+    <ProgramaInstalado>Python 3.6.0 (Anaconda3 4.3.1 64-bit)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Oracle Database 11g Express Edition</ProgramaInstalado>
+    <ProgramaInstalado>TortoiseGit 1.8.14.0 (64 bit)</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Database Engine Services</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2005 Redistributable (x64)</ProgramaInstalado>
+    <ProgramaInstalado>IIS Express Application Compatibility Database for x64</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64</ProgramaInstalado>
+    <ProgramaInstalado>TortoiseSVN 1.8.11.26392 (64 bit)</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Database Engine Services</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft System CLR Types para SQL Server 2014</ProgramaInstalado>
+    <ProgramaInstalado>Windows App Certification Kit Native Components</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Management Objects  (x64)</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Client Tools</ProgramaInstalado>
+    <ProgramaInstalado>7-Zip 9.38 (x64 edition)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Setup (English)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610</ProgramaInstalado>
+    <ProgramaInstalado>Universal CRT Tools x64</ProgramaInstalado>
+    <ProgramaInstalado>McAfee Agent</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Build Tools Language Resources 14.0 (amd64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Performance Collection Tools - ENU</ProgramaInstalado>
+    <ProgramaInstalado>Visual C++ IDE x64 Package</ProgramaInstalado>
+    <ProgramaInstalado>MySQL Workbench 6.3 CE</ProgramaInstalado>
+    <ProgramaInstalado>Visual Studio 2010 Prerequisites - English</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Management Studio</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft System CLR Types for SQL Server 2016 RC0</ProgramaInstalado>
+    <ProgramaInstalado>HeidiSQL-9.2.0</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Database Engine Shared</ProgramaInstalado>
+    <ProgramaInstalado>Windows Software Development Kit DirectX x64 Remote</ProgramaInstalado>
+    <ProgramaInstalado>Intel(R) Chipset Device Software</ProgramaInstalado>
+    <ProgramaInstalado>firefox-58.0.2</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 VsGraphics Helper Dependencies</ProgramaInstalado>
+    <ProgramaInstalado>Gravador VSS da Microsoft para SQL Server 2014</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Transact-SQL Compiler Service </ProgramaInstalado>
+    <ProgramaInstalado>sqldeveloper-4.1.1</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2015 x64 Debug Runtime - 14.0.23918</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Diagnostic Tools - amd64</ProgramaInstalado>
+    <ProgramaInstalado>Sql Server Customer Experience Improvement Program</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 RsFx Driver</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft ODBC Driver 11 for SQL Server</ProgramaInstalado>
+    <ProgramaInstalado>ProjectLibre</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Express LocalDB </ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Management Studio</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610</ProgramaInstalado>
+    <ProgramaInstalado>git-1.9.5</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server Compact 4.0 SP1 x64 ENU</ProgramaInstalado>
+    <ProgramaInstalado>IIS 10.0 Express</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2015 x64 Minimum Runtime - 14.0.23918</ProgramaInstalado>
+    <ProgramaInstalado>vlc-2.2.1</ProgramaInstalado>
+    <ProgramaInstalado>srp-3.7</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Build Tools 14.0 (amd64)</ProgramaInstalado>
+    <ProgramaInstalado>netbeans-8.2</ProgramaInstalado>
+    <ProgramaInstalado>Visual Studio 2015 Prerequisites - ENU Language Pack</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Silverlight</ProgramaInstalado>
+    <ProgramaInstalado>ganttproject-2.8.5</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Office Office 64-bit Components 2010</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Office Shared 64-bit MUI (Portuguese (Brazil)) 2010</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Common Files</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.21005</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Framework 4.6.1</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Framework 4.6.1 (Português do Brasil)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2010 Tools for Office Runtime (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 2 Storyboarding Language Pack (x64) - ENU</ProgramaInstalado>
+    <ProgramaInstalado>Windows Software Development Kit for Windows Store Apps DirectX x64 Remote</ProgramaInstalado>
+    <ProgramaInstalado>Arquivos de Suporte à Instalação do Microsoft SQL Server 2008 </ProgramaInstalado>
+    <ProgramaInstalado>Windows XP Targeting with C++</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2016 LocalDB RC0</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2012 Command Line Utilities </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - PTB</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Framework 4.6.1 (PTB)</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.21005</ProgramaInstalado>
+    <ProgramaInstalado>mysql-5.6.25</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Database Engine Shared</ProgramaInstalado>
+    <ProgramaInstalado>IIS Express Application Compatibility Database for x86</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2005 Redistributable (x64)</ProgramaInstalado>
+    <ProgramaInstalado>Notepad++6.7.9</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Client Tools</ProgramaInstalado>
+    <ProgramaInstalado>Windows Software Development Kit DirectX x64 Remote</ProgramaInstalado>
+    <ProgramaInstalado>jdk-1.8.121</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Framework 4.6.1</ProgramaInstalado>
+    <ProgramaInstalado>BorlandTurbo-1.0</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft .NET Version Manager (x64) 1.0.0-beta5</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Update 2 Diagnostic Tools - amd64</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1 Language Pack - PTB</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2014 Transact-SQL ScriptDom </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio Team Foundation Server 2015 Update 2 Office Integration Language Pack (x64) - ENU</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2012 Native Client </ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2016 T-SQL ScriptDom RC0</ProgramaInstalado>
+    <ProgramaInstalado>Visual Studio 2015 Prerequisites</ProgramaInstalado>
+    <ProgramaInstalado>swi-prolog-7.2.3</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual C++ 2015 x64 Additional Runtime - 14.0.23918</ProgramaInstalado>
+    <ProgramaInstalado>Foxit-Reader-7.1.5</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Help Viewer 1.1</ProgramaInstalado>
+    <ProgramaInstalado>Active Directory Authentication Library for SQL Server</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Web Deploy 3.6</ProgramaInstalado>
+    <ProgramaInstalado>eclipse-jee-4.6.2</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft SQL Server 2016 Management Objects RC0 (x64)</ProgramaInstalado>
+    <ProgramaInstalado>SQL Server 2014 Common Files</ProgramaInstalado>
+    <ProgramaInstalado>Microsoft Visual Studio 2015 Performance Collection Tools</ProgramaInstalado>
+  </ProgramasInstalados>
+</AuditCo_Cliente>
