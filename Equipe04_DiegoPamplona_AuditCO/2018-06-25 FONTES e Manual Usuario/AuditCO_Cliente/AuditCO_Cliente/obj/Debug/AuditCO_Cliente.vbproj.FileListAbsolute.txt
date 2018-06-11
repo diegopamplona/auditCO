@@ -1,0 +1,10 @@
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\bin\Debug\AuditCO_Cliente.exe
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\bin\Debug\AuditCO_Cliente.pdb
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\bin\Debug\AuditCO_Cliente.xml
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.vbprojResolveAssemblyReference.cache
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.Form1.resources
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.Resources.resources
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.vbproj.GenerateResource.Cache
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.exe
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.xml
+c:\users\diego.pamplona\documents\visual studio 2015\Projects\AuditCO_Cliente\AuditCO_Cliente\obj\Debug\AuditCO_Cliente.pdb
