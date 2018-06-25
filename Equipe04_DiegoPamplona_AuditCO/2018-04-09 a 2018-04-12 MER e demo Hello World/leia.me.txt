@@ -4,3 +4,4 @@ O Servidor são os esqueletos de tela, onde é esperado ter uma interface de admin
 
 O Cliente é um frame de teste, onde cada vez que se clica em coleta ele grava um XML dentro da pasta temp do diretorio que se está executando. Deve-se criar uma pasta temp no mesmo diretorio de execução do cliente pois dará erro de localização de diretorio.
 
+GitHub Apresentando Problema, testando.
