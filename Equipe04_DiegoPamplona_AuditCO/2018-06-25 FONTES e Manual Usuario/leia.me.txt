@@ -1,1 +1,3 @@
-Nao puxou os fontes do programa
+- O Server é o Front de ADM da Solução AuditCO
+- O Cliente(Não Serviço) é para Simular a Coleta sem Precisar Instalar
+- O Client é o Serviço de Coleta das informações pro Banco de Dados
